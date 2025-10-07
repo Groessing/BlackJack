@@ -1,0 +1,29 @@
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\bin\Debug\BlackJackGame.GUI.exe.config
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\bin\Debug\BlackJackGame.GUI.exe
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\bin\Debug\BlackJackGame.GUI.pdb
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\bin\Debug\BlackJack.Lib.dll
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\bin\Debug\BlackJack.Lib.pdb
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJackGame.GUI.csproj.AssemblyReference.cache
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJackGame.GUI.Form1.resources
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJackGame.GUI.Properties.Resources.resources
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJackGame.GUI.csproj.GenerateResource.cache
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJackGame.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJackGame.GUI.exe
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJackGame.GUI.pdb
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJackGame.GUI.Form2.resources
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJac.2B01CCB1.Up2Date
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\bin\Debug\BlackJackGame.GUI.exe.config
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\bin\Debug\BlackJackGame.GUI.exe
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\bin\Debug\BlackJackGame.GUI.pdb
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\bin\Debug\BlackJack.Lib.dll
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\bin\Debug\BlackJack.Lib.pdb
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJackGame.GUI.csproj.AssemblyReference.cache
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJackGame.GUI.exe.config
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJackGame.GUI.Form1.resources
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJackGame.GUI.Form2.resources
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJackGame.GUI.Properties.Resources.resources
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJackGame.GUI.csproj.GenerateResource.cache
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJackGame.GUI.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJac.2B01CCB1.Up2Date
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJackGame.GUI.exe
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJackGame.GUI\obj\Debug\BlackJackGame.GUI.pdb
