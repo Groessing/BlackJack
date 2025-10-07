@@ -1,0 +1,10 @@
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJack.UI\bin\Debug\BlackJack.UI.exe.config
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJack.UI\bin\Debug\BlackJack.UI.exe
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJack.UI\bin\Debug\BlackJack.UI.pdb
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJack.UI\bin\Debug\BlackJack.Lib.dll
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJack.UI\bin\Debug\BlackJack.Lib.pdb
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJack.UI\obj\Debug\BlackJack.UI.csproj.AssemblyReference.cache
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJack.UI\obj\Debug\BlackJack.UI.csproj.CoreCompileInputs.cache
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJack.UI\obj\Debug\BlackJack.UI.csproj.CopyComplete
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJack.UI\obj\Debug\BlackJack.UI.exe
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJack.UI\obj\Debug\BlackJack.UI.pdb
