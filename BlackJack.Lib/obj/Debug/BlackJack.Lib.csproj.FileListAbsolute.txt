@@ -1,0 +1,12 @@
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJack.Lib\bin\Debug\BlackJack.Lib.dll
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJack.Lib\bin\Debug\BlackJack.Lib.pdb
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJack.Lib\obj\Debug\BlackJack.Lib.csproj.AssemblyReference.cache
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJack.Lib\obj\Debug\BlackJack.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJack.Lib\obj\Debug\BlackJack.Lib.dll
+C:\Users\Larissa Grössing\Desktop\BlackJack\Software\BlackJack\BlackJack.Lib\obj\Debug\BlackJack.Lib.pdb
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJack.Lib\bin\Debug\BlackJack.Lib.dll
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJack.Lib\bin\Debug\BlackJack.Lib.pdb
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJack.Lib\obj\Debug\BlackJack.Lib.csproj.AssemblyReference.cache
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJack.Lib\obj\Debug\BlackJack.Lib.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJack.Lib\obj\Debug\BlackJack.Lib.dll
+C:\Mac\Home\Desktop\BlackJack\Software\BlackJack\BlackJack.Lib\obj\Debug\BlackJack.Lib.pdb
